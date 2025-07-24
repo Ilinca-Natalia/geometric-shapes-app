@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometricShapes.Core", "GeometricShapes.Core\GeometricShapes.Core.csproj", "{7252411C-1E63-47B5-A789-94EAF62A99D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometricShapes.DataAccess", "GeometricShapes.DataAccess\GeometricShapes.DataAccess.csproj", "{C054A95D-0323-4BCE-9F96-2B386FBF3AAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometricShapes.UI", "GeometricShapes.UI\GeometricShapes.UI.csproj", "{6A6EDDA4-E9F6-4329-81C2-601527808672}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7252411C-1E63-47B5-A789-94EAF62A99D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7252411C-1E63-47B5-A789-94EAF62A99D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7252411C-1E63-47B5-A789-94EAF62A99D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7252411C-1E63-47B5-A789-94EAF62A99D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C054A95D-0323-4BCE-9F96-2B386FBF3AAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C054A95D-0323-4BCE-9F96-2B386FBF3AAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C054A95D-0323-4BCE-9F96-2B386FBF3AAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C054A95D-0323-4BCE-9F96-2B386FBF3AAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A6EDDA4-E9F6-4329-81C2-601527808672}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A6EDDA4-E9F6-4329-81C2-601527808672}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A6EDDA4-E9F6-4329-81C2-601527808672}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A6EDDA4-E9F6-4329-81C2-601527808672}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
